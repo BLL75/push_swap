@@ -1,0 +1,15 @@
+# Binaries and object files
+*.o
+*.a
+push_swap
+
+# Swap files
+*.swp
+*.swo
+*.swn
+*~
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
